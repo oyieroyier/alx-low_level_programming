@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*Betty insisted on this*/
 
 int main(void)
 {
