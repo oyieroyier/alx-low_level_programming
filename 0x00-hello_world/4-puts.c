@@ -1,5 +1,10 @@
 #include <stdio.h>
-/*Betty insisted on this*/
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
