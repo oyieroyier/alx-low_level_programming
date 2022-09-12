@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S masm=intel $SCFILE > (echo basename -s .c "$SCFILE").s
+gcc masm=intel $SCFILE -S > $(echo basename -s .c $SCFILE).s
