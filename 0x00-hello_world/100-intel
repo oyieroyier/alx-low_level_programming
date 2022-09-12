@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S masm=intel $SCFILE > {$SCFILE.s | cut -f1 -d"."}.s
+gcc -S masm=intel $SCFILE > ${basename "$SCFILE" .c}.s
