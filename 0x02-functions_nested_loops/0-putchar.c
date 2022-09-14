@@ -5,14 +5,14 @@
  * Return: Always 0 (success)
  */
 
-int _putchar(char a)
+int _putchar(char c)
 {
-    char a[] = "_putchar";
+    char c[] = "_putchar";
     int i = 0;
 
-    while(a != '\0')
+    while(c != '\0')
     {
-        _putchar(a[i]);
+        _putchar(c[i]);
         i++;
     }
 return 0;
