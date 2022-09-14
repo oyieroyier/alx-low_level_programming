@@ -5,7 +5,7 @@
  * Return: Always 0 (success)
  */
 
-int _putchar(char c)
+int _putchar(char a)
 {
     char a[] = "_putchar";
     int i = 0;
