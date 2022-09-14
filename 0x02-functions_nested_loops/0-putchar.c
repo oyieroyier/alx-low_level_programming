@@ -15,4 +15,5 @@ while(a != '\0')
     putchar(a[i]);
     i++;
 }
+return 0;
 }
