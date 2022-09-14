@@ -9,9 +9,10 @@ int main(void)
 {
     char a[] = "_putchar";
     int i = 0;
-    char c = a[i]
+
     while(a != '\0')
     {
+        char c = a[i]
         _putchar(c);
         i++;
     }
