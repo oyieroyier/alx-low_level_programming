@@ -11,10 +11,10 @@ char a[] = "_putchar";
 int i = 0;
 
 while(a != '\0')
-{
-char c = a[i];
-_putchar(c);
-i++;
-}
+    {
+    char c = a[i];
+    _putchar(c);
+    i++;
+    }
 return (0);
 }
