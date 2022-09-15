@@ -2,7 +2,7 @@
 
 /**
  *_islower - check the code.
- *
+ *@c: the integer value it receives
  * Return: Always 0.
  */
 
