@@ -12,7 +12,7 @@ int main(void)
 {
     void print_alphabet();
     return 0;
-}
+
 
 /**
  * main - Entry point
@@ -33,3 +33,4 @@ for (i = 'a'; i <= 'z'; i++)
 _putchar('\n');
 }
 
+}
