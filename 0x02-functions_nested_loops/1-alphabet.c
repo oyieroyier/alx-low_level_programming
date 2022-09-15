@@ -19,13 +19,3 @@ for (i = 'a'; i <= 'z'; i++)
 _putchar('\n');
 }
 
-/*
- *main - dad
- *Return: nyef
- */
-
-int main(void)
-{
-void print_alphabet();
-return 0;
-}
