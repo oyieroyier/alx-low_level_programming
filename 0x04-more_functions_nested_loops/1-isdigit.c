@@ -2,8 +2,8 @@
 
 /**
  *_isdigit - entry point
- * @c: value received
- *  Return - Always 0
+ *@c: value received
+ * Return - Always 0
  */
 
 int _isdigit(int c)
