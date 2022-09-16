@@ -1,8 +1,8 @@
 #include "main.h"
 
-/*
- * _isupper - entry point
- * @c: character
+/**
+ *_isupper - entry point
+ *@c: value received
  * Return: Always 0
  */
 
