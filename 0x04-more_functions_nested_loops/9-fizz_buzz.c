@@ -3,12 +3,13 @@
 /**
  *main - entry point
  *
- * Return - Always 0
+ * Return: Always 0
  */
 
 int main(void)
 {
 	int i;
+
 	for (i = 1; i <= 100; i++)
 	{
 		if (i % 5 == 0 && i % 3 == 0)
@@ -25,11 +26,11 @@ int main(void)
 		}
 		else
 		{
-			printf("%i ",i);
+			printf("%i ", i);
 		}
 		if (i != 100)
 		{
-			printf(' ')
+			printf(" ");
 		}
 	}
 printf("\n");
