@@ -2,8 +2,8 @@
 
 /*
  * _isupper - entry point
- *@c - character
- *return - Always 0
+ * @c: character
+ * Return: Always 0
  */
 
 int _isupper(int c)
