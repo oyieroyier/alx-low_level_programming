@@ -3,7 +3,7 @@
 /**
  *_isdigit - entry point
  *@c: value received
- * Return - Always 0
+ * Return: Always 0
  */
 
 int _isdigit(int c)
@@ -17,4 +17,5 @@ int _isdigit(int c)
 	{
 		return (0);
 	}
+return (0);
 }
