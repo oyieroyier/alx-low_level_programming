@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * 
  *mul - entry point
  *
  *@a: value taken 1
@@ -12,7 +11,7 @@
 
 int mul(int a, int b)
 {
-	_putchar(a * b)
+	int c = (a * b)
 
-	return (0);
+	return (c);
 }
