@@ -6,7 +6,7 @@
  * Return - Always 0
  */
 
-void print_numbers(void)
+int main(void)
 {
 	int i;
 	for (i = 0; i <= 9; i++)
@@ -15,5 +15,5 @@ void print_numbers(void)
 	}
 
 	_putchar("\n");
-return (0);	
+	return (0);	
 }
