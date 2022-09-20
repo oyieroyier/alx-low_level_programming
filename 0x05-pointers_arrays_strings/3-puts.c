@@ -5,7 +5,7 @@
  *
  * @str: the string to be checked
  *
- * Returns: 0
+ * Return: 0
  */
 
 void _puts(char *str)
