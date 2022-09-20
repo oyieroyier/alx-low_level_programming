@@ -2,9 +2,9 @@
 
 /**
  * reset_to_98 - updates the value of pointer to 98
- * 
+ *
  * @n: parameter
- * 
+ *
  * Return: Always 0;
  */
 
