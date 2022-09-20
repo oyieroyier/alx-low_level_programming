@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- *
- * _stlen - returns the length of the string
+ * _strlen - returns the length of the string
  *
  * @s: the string to be checked
  *
@@ -17,5 +16,5 @@ int _strlen(char *s)
 	{
 		length++;
 	}
-	return(length);
+	return (length);
 }
